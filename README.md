@@ -4,9 +4,9 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AlexanderPRM/OnlineCinema-2.0)
 ![GitHub Release](https://img.shields.io/github/v/release/AlexanderPRM/OnlineCinema-2.0)
 
-# OnlineCinema-2.0
+# FilmoraX
 
-Repository for the development of a new Online Cinema with new functionality and fixed bugs. Project consists of several microservices, which collectively provide functionality of online cinema.
+Repository for the development of a FilmoraX project, which is an online cinema. Project consists of several microservices, which collectively provide functionality of online cinema.
 
 The development is conducted according to the principle of clean architecture.
 
@@ -18,7 +18,6 @@ Following microservices are user in the project.
 - Billing microservice (Planned).
 - Notifications microservice, for example, sending emails to users (Planned).
 
-And several others (Planned).
 
 As a API Gateway is used Nginx. If verification is required, Nginx send request to Auth microservice and if response is okay, go next.
 
