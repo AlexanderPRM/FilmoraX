@@ -1,8 +1,8 @@
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/AlexanderPRM/OnlineCInema-2.0/linters.yaml)
-![License](https://img.shields.io/github/license/AlexanderPRM/OnlineCinema-2.0.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/AlexanderPRM/OnlineCinema-2.0)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AlexanderPRM/OnlineCinema-2.0)
-![GitHub Release](https://img.shields.io/github/v/release/AlexanderPRM/OnlineCinema-2.0)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/AlexanderPRM/FilmoraX/linters.yaml)
+![License](https://img.shields.io/github/license/AlexanderPRM/FilmoraX.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/AlexanderPRM/FilmoraX)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AlexanderPRM/FilmoraX)
+![GitHub Release](https://img.shields.io/github/v/release/AlexanderPRM/FilmoraX)
 
 # FilmoraX
 
